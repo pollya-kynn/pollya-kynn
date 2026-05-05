@@ -111,21 +111,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=zha0090&theme=tokyonight&hide_border=true&background=0D1117"
+    src="https://streak-stats.demolab.com?user=zha0090&theme=tokyonight&hide_border=true&background=0D1117"
     alt="GitHub streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="195"
-    src="https://github-readme-stats.vercel.app/api?username=zha0090&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff"
-    alt="zha0090 GitHub stats"
-  />
-  <img
-    height="195"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zha0090&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9f7aea&text_color=ffffff"
-    alt="Top languages"
   />
 </p>
 
