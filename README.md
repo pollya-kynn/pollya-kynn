@@ -6,8 +6,6 @@
   />
 </p>
 
-<h1 align="center">Hi there, am I cool yet? 😎</h1>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=2200&pause=1000&color=00FF7F&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+and+Web+Enthusiast;Always+Building+and+Learning"
@@ -17,24 +15,16 @@
 
 <p align="center">
   <a href="https://github.com/zha0090">
-    <img src="https://img.shields.io/github/followers/zha0090?label=Followers&style=for-the-badge&color=26A5E0" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/zha0090?label=Followers&style=for-the-badge&color=%2326A5E0" alt="GitHub followers" />
   </a>
   <a href="https://github.com/zha0090?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=zha0090&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/zha0090">
+    <img src="https://komarev.com/ghpvc/?username=zha0090&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
 </p>
 
----
-
-## About Me
-
-- I enjoy building clean, useful software with modern web technologies.
-- I work across frontend, backend, APIs, databases, and cloud tooling.
-- I am interested in AI, automation, scalable systems, and developer tools.
-- I like turning ideas into practical products and continuously improving my craft.
-
----
 
 ## Tech Stack
 
@@ -117,23 +107,12 @@
 </p>
 
 <picture>
-src="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake.svg"
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake.svg">
   <img
   alt="GitHub contribution snake"
   src="https://raw.githubusercontent.com/zha0090/zha0090/output/github-contribution-grid-snake.svg"
   />
-</picture>
-
----
-
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 ---
