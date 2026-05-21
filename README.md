@@ -1,3 +1,6 @@
+<p align='center'>
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=zha0090&theme=dark_magic_girl&data=followers,repositories,stars,commits' />
+</p>
 <p align="center">
   <img
     width="98%"
@@ -11,18 +14,6 @@
     src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=36&duration=4000&pause=1000&color=DAA0F6&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+and+Web+Enthusiast;Always+Building+and+Learning"
     alt="Typing SVG"
   />
-</p>
-
-<p align="center">
-  <a href="https://github.com/zha0090">
-    <img src="https://img.shields.io/github/followers/zha0090?label=Followers&style=for-the-badge&color=%2326A5E0" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/zha0090?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-19-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
-  </a>
-  <a href="https://github.com/zha0090">
-    <img src="https://komarev.com/ghpvc/?username=zha0090&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  </a>
 </p>
 
 
