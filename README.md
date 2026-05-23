@@ -25,15 +25,12 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet&libraries=babel,p5,tensorflow,jquery&tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&software=linux,windows,vscode&theme=dark_magic_girl"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet&libraries=babel,p5,tensorflow,jquery&tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&software=linux,windows,vscode&theme=cheesecake"
-    />
-  </picture>
+  <img
+  src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet&libraries=babel,p5,tensorflow,jquery&tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&software=linux,windows,vscode&theme=dark_magic_girl#gh-dark-mode-only"
+  />
+  <img
+    src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown&frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet&libraries=babel,p5,tensorflow,jquery&tools=git,docker,npm,yarn,webpack,gulp,firebase,mongodb,wordpress,shopify,woocommerce,vercel,redis,nodejs,heroku,apache,nginx,aws,jupyter,gradle,prettier&software=linux,windows,vscode&theme=cheesecake#gh-light-mode-only"
+  />
 </p>
 
 ## GitHub Stats
